@@ -79,6 +79,4 @@ This project successfully developed an SMS spam detection model using BERT, emph
 - **Model Transparency**: Explainability tools like SHAP and LIME are invaluable for understanding model behavior and ensuring accountability.
 - **Security Measures**: Implementing robust security practices is crucial for protecting user data.
 
----
 
-This README should align closely with the project details and be compelling for readers on GitHub. The title has been enhanced to make it more engaging. Let me know if you need any further changes!
